@@ -1,3 +1,7 @@
+## How you see it depends on the configuration you have on your computer!
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
