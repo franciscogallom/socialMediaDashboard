@@ -1,6 +1,8 @@
 ## How you see it depends on the configuration you have on your computer!
 
-
+<img width="785" alt="img1" src="https://user-images.githubusercontent.com/65749055/89594197-9a2a2980-d827-11ea-8853-349e5056b7ff.png">
+<img width="785" alt="img2" src="https://user-images.githubusercontent.com/65749055/89594199-9bf3ed00-d827-11ea-8c5b-40b886f792d1.png">
+<img width="191" alt="img3" src="https://user-images.githubusercontent.com/65749055/89594202-9dbdb080-d827-11ea-8f5c-c2312ff4422a.png">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
